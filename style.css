@@ -1,0 +1,23 @@
+.bg-infos {
+    background-color: #FFF9F4;
+}
+
+.warning {
+    color: #FA804C;
+    font-family: 'Bebas Neue';
+    font-weight: 700;
+}
+
+.danger {
+    color: #363958;
+    font-family: 'Bebas Neue';
+    font-weight: 700;
+}
+
+.success {
+    background-color: #F1F1F1;
+}
+
+.size {
+    height: 300px;
+}
